@@ -1,6 +1,6 @@
 ---
 title: "Synchronized Androids"
-subtitle: Do androids dream of electric sheep?
+subtitle: Do androids dream with electric sheeps?
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why?
